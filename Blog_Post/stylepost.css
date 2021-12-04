@@ -1,0 +1,14 @@
+.col-md-12{
+    padding: 0px;
+}
+.img_1{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.img{
+     border: 1px solid rgb(201, 195, 195);
+     border-radius: 4px;
+     padding: 5px;
+}

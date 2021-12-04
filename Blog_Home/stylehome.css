@@ -1,0 +1,15 @@
+.col-md-12{
+    padding: 0px;
+}
+.image_1{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.document{
+    text-align: justify;
+    flex: auto;
+    font-size: 25px;
+    width: 100%;
+}
